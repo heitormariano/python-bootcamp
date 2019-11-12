@@ -31,3 +31,6 @@ print(type(person))
 
 print(person.keys())
 print(person.values())
+
+dicionario_show = {"nome": "nome", "sobrenome": "vamos lá!"}
+print(dicionario_show)
